@@ -17,7 +17,8 @@
     "RabitE2ECreatePkg@1.0.2.0" : "04tg5000000HPlBAAW",
     "RabitE2ECreatePkg@1.0.3.0" : "04tg5000000Hd6bAAC",
     "RabitE2ECreatePkg@1.0.4.0" : "04tg5000000HkEXAA0",
-    "RabitE2ECreatePkg@1.0.5.0" : "04tg5000000HkeLAAS"
+    "RabitE2ECreatePkg@1.0.5.0" : "04tg5000000HkeLAAS",
+    "RabitE2ECreatePkg@1.0.6.0" : "04tg5000000HkpdAAC"
   },
   "name" : "rabit-e2e-sfdx-fixtures"
 }
